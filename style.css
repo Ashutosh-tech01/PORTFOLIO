@@ -439,6 +439,7 @@ section{
 .box .text small{
   display:block;
   font-weight:600;
+  text-align: center;
 }
 .circle{
   width:100%;
